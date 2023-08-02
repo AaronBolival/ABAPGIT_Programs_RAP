@@ -3,8 +3,8 @@
  <asx:values>
   <DATA>
    <MASTER_LANGUAGE>E</MASTER_LANGUAGE>
-   <STARTING_FOLDER>/src/</STARTING_FOLDER>
-   <FOLDER_LOGIC>PREFIX</FOLDER_LOGIC>
+   <STARTING_FOLDER>/src/zbolival_so_consumption/</STARTING_FOLDER>
+   <FOLDER_LOGIC>FULL</FOLDER_LOGIC>
   </DATA>
  </asx:values>
 </asx:abap>
